@@ -72,4 +72,3 @@ def create_spicy_food(spicy_foods, spicy_food):
      return spicy_foods
 
 
-print(create_spicy_food(spicy_foods, {"name": input("Food name: "), "cuisine": input("Cuisine: "), "heat_level": int(input("Heat Level: "))}))
